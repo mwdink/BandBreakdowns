@@ -1,0 +1,1 @@
+A collection of perl scripts for collecting contest band breakdown info from 3830 archives
